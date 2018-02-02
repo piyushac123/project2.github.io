@@ -1,0 +1,27 @@
+.nav-link:hover{
+    text-decoration: none;
+}
+.nav-link{
+    color:white;
+    font-size:20px;
+    line-height: 50px;
+}
+.nav-item{
+    padding-right: 60px;
+}
+.navbar-brand{
+    color:white;
+}
+.title{
+    font-family: 'Arvo', Georgia, Times, serif;
+    font-size: 30px;
+    color:white;
+    line-height: 50px;
+    padding-top: 9px;
+    padding-right: 1200px;
+    font-variant: small-caps
+}
+.img-rounded{
+    margin-left:350px;
+    width:60%;
+}
