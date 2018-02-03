@@ -22,6 +22,8 @@
     font-variant: small-caps
 }
 .img-rounded{
-    margin-left:350px;
-    width:60%;
+    /*margin-left:100px;*/
+    width:100%;
+    height: 600px;
 }
+
